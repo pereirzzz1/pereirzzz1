@@ -1,5 +1,7 @@
 # Hey 👋, I'm Omar ツ
 
+[![](https://visitcount.itsvg.in/api?id=pereirzzz1&icon=0&color=12)](https://visitcount.itsvg.in)
+
 - 🌱 I’m currently learning **Java, PostGreSQL**
 
 ## 🌐 Socials:
@@ -20,6 +22,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pereirzzz1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=pereirzzz1&icon=0&color=12)](https://visitcount.itsvg.in)
