@@ -1,8 +1,8 @@
-# Hi 👋, I'm Omar ツ
+# Hey 👋, I'm Omar ツ
 
-- 🌱 I’m currently learning **PostGreSQL, Java, MongoDB**
+- 🌱 I’m currently learning **Java, PostGreSQL**
 
-- 📫 How to reach me **Omar Diego Ozan Pereira** on LinkedIn
+- 📫 How to reach me: **Omar Diego Ozan Pereira** on LinkedIn
 
 ---
 
